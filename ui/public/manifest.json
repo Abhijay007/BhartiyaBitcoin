@@ -1,0 +1,10 @@
+{
+  "name": "Bitcoin Bharat AI",
+  "short_name": "Bitcoin Bharat",
+  "description": "Bitcoin education in your language",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f7931a",
+  "icons": []
+}
