@@ -27,8 +27,6 @@ html, body {
   line-height: 1.6;
 }
 
-#__next { height: 100%; }
-
 /* ── Markdown content ──────────────────────────────────────────────────────── */
 .markdown-body p { margin-bottom: 0.55em; }
 .markdown-body p:last-child { margin-bottom: 0; }
